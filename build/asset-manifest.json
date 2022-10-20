@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee59eb9f.css",
+    "main.js": "/static/js/main.a53d9dd3.js",
+    "static/js/787.edf0f549.chunk.js": "/static/js/787.edf0f549.chunk.js",
+    "static/media/Cyberpunk.jpg": "/static/media/Cyberpunk.d8972a8a91b5ccb14d51.jpg",
+    "static/media/moon.jpg": "/static/media/moon.e85134a35923e708181c.jpg",
+    "index.html": "/index.html",
+    "main.ee59eb9f.css.map": "/static/css/main.ee59eb9f.css.map",
+    "main.a53d9dd3.js.map": "/static/js/main.a53d9dd3.js.map",
+    "787.edf0f549.chunk.js.map": "/static/js/787.edf0f549.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee59eb9f.css",
+    "static/js/main.a53d9dd3.js"
+  ]
+}
